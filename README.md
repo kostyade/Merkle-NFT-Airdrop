@@ -1,2 +1,2 @@
-# Merklee-Airdrop
-Efficient token airdrop with merklee proof 
+# NFT airdrop distribution contract
+
